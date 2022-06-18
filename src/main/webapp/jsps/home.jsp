@@ -18,6 +18,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		Guest : Dhrishya !
+		Party Organizer : Dhandabani / Srinivas
 		<br>
 		<a href="mailto:dhandabani@gmail.com">Mail to tharsingh_alias_waste_guy</a>
 	</span>
