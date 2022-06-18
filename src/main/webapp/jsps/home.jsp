@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome Buddieeee  .....</h1>
-<h1 align="center"> Party Reddy :)
+<h1 align="center">Welcome Buddieeeee  .....</h1>
+<h1 align="center"> Party Reddy !!!   :)
 <hr>
 <div style="text-align: center;">
 	<span>
