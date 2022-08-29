@@ -98,13 +98,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>MavenprojectRelease</name>
 	      <url>http://3.86.161.134:8081/repository/MavenprojectRelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>MavenProjectSnapshot</name>
 	      <url>http://3.86.161.134:8081/repository/MavenProjectSnapshot/</url>
 	    </snapshotRepository>
 	    
